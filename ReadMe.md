@@ -1,5 +1,11 @@
 # 💫 About Me:
-ML Engineer | Specializing in Python & Scalable AI Solutions.Focused on building end-to-end machine learning pipelines and predictive modeling. Turning complex data into actionable insights, one commit at a time. 
+ I’m Divyansh Singh Tomar, a 14-year-old data scientist dedicated to simplifying the complex world of Artificial Intelligence and data science.
+
+On this channel, I bridge the gap between advanced technical concepts and accessible insights. From diving deep into statistical models to mastering creative data visualization techniques, my goal is to make AI and data science understandable and actionable for everyone.
+
+Whether you're curious about how machine learning works or looking to improve your own data skills, you're in the right place. 
+
+Subscribe to join the journey, and feel free to reach out for inquiries or collaborations at: divyanshsinghtomar.official@gmail.com
 
 
 ## 🌐 Socials:
